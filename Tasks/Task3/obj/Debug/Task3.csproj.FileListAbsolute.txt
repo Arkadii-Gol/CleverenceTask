@@ -1,7 +1,0 @@
-C:\Users\GololobovAA\source\repos\Tasks\Task3\bin\Debug\Task3.exe.config
-C:\Users\GololobovAA\source\repos\Tasks\Task3\bin\Debug\Task3.exe
-C:\Users\GololobovAA\source\repos\Tasks\Task3\bin\Debug\Task3.pdb
-C:\Users\GololobovAA\source\repos\Tasks\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
-C:\Users\GololobovAA\source\repos\Tasks\Task3\obj\Debug\Task3.exe
-C:\Users\GololobovAA\source\repos\Tasks\Task3\obj\Debug\Task3.pdb
-C:\Users\GololobovAA\source\repos\Tasks\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
